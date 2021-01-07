@@ -1,0 +1,8 @@
+# for the one that purely goes to closest reward
+greedy.assess_model()
+100%|██████████| 1000/1000 [00:10<00:00, 95.95it/s]
+Average reward 26.015
+Average steps taken 66.92
+Average steps per reward 2.57236209878916
+
+# going to try for one that goes back to tail to get longest distance..
